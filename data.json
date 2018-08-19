@@ -1,0 +1,57 @@
+{
+	"details":{
+		"image":"prof.png",
+		"name":"Sreelekha",
+		"phoneno":"9849132979",
+		"email":"sreelekhamukthipati888@gmail.com",
+		"address":"Darsi."
+	},
+	"career":{
+		"info":"To purchase a challenging carrer and be a challenge"
+	},
+	"Education":[
+	{
+       "Qualification":"btech",
+		"Institute":"vignan's nirula",
+		"Year":"2016-2029",
+		"Percentage":"95%."
+    },
+	
+	{
+		"Qualification":"Intermediate",
+		"Institute":"Narayana IIT Academy",
+		"Year":"2014-2016",
+		"Percentage":"95.8%."
+	},
+	{
+		"Qualification":"SSC",
+		"Institute":"Narayana",
+		"Year":"2013-2014",
+		"Percentage":"92%."
+	}
+
+],
+	"skills":[{
+	"title":"programminglanguages",
+	"info":["c","c++","java","python"]
+},
+{
+	"title":"databases",
+	"info":["mysql","oracle","sql"]
+},
+{
+	"title":"operatingsystems",
+	"info":["unix","linux","windows","mac"]
+}
+],
+	"achievements":[
+		{
+		
+		"title":"first in sports"
+	},
+	{
+		"title":"certified in iot"
+	}
+	
+]
+}
